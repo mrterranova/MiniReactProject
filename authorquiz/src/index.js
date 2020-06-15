@@ -38,12 +38,6 @@ const authors = [
     books: ['Pride and Prejudice', 'Sense and Sensibility', 'Emma']
   },
   {
-    name: 'George Orwell',
-    imageUrl: "images/authors/georgeorwell.jpg",
-    imageSource: "Wikimedia Commons",
-    books: ['1984', 'Animal Farm', 'The Road to Wigan Pier']
-  }, 
-  {
     name: 'William Shakespeare',
     imageUrl: "images/authors/williamshakespeare.jpg",
     imageSource: "Wikimedia Commons",
